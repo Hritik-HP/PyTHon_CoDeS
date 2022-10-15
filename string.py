@@ -12,3 +12,24 @@ print(s.lstrip("Welcome"))  #to remove from left side
 
 print("minimum=",min(s))
 print("minimum=",max(s))
+
+print(s.count('o',0,len(s)))
+print(s.index('e',0,len(s)))
+print(s.find('o',0,len(s)))
+
+s='-'
+sequence=("hello", "world", "!")
+print(s.join(sequence))
+
+s="Welcome To The Jungle"
+print(s.replace("W","J"))
+txt="welcome to the jungle"
+x=txt.split()
+print(x)
+a="hello world!"
+print(a.split(","))
+c=a+txt
+print(c)
+print(a+" "+txt)
+y=45
+print(a.format(y))
