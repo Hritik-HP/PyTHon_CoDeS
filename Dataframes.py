@@ -7,3 +7,6 @@ data = {
 }
 df = pd.DataFrame(data)
 print(df)
+
+print(df.fillna(100))
+print(df.dropna(axis=1))
