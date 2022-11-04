@@ -1,2 +1,2 @@
 # PyTHon_CoDeS
-Some basics about Python
+Some basics codes for beginners who wanna learn about python 
