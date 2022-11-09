@@ -21,7 +21,7 @@ a=10
 b=20
 def func():
     a=1000
-    global b
+    global b                            #globally defined
     b=200
     print("inside value of a is:",a "and b is:",b)
 func()
