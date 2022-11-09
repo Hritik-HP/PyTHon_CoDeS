@@ -1,6 +1,4 @@
 import string
-
-
 a=float(10)
 print(a)
 name=str(input("enter name: "))
