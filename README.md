@@ -1,3 +1,4 @@
 # PyTHon_CoDeS
 Some basics codes for beginners who wanna learn about python 
-## use Jupyter notebook for better results
+## Use Jupyter notebook for better results
+> before using jupyter you need to install all the libraries which we used in our files
